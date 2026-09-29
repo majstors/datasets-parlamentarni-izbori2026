@@ -1,0 +1,171 @@
+﻿id	Izborna_komisija	adresa	telefon_1	telefon_2	telefon_3	telefon_4	telefon_5	email	latitude	longitude
+1	Ada	"Ada, Trg oslobođenja br. 1"	"024852106"					izborna.komisija@ada.org.rs	45.797066	20.132215
+2	Aleksandrovac	"Aleksandrovac, Jaše Petrovića br. 26"	"0373150102"					oik@aleksandrovac.rs	43.459398	21.046282
+3	Aleksinac	"Aleksinac, Knjaza Miloša br. 169"	"0602182213"					oik@aleksinac.org	43.542073	"21.708240"
+4	Alibunar	"Alibunar, Trg slobode br. 4"	"0608450033"					oikalibunar@alibunar.org.rs	"45.080240"	20.965337
+5	Apatin	"Apatin, Srpskih vladara br. 29"	"0647094693"	"0652526011"				sekretar@apatin.rs	"45.670220"	"18.984740"
+6	Aranđelovac	"Aranđelovac, Venac slobode br. 10"	"034711722"					izbori@arandjelovac.rs	44.306978	20.557604
+7	Arilje	"Arilje, Svetog Ahilija br. 53"	"0313150110"					oikarilje@gmail.com	43.748728	20.101423
+8	Babušnica	"Babušnica, Ratka Pavlovića br. 1"	"0648866799"					oikbabusnica@babusnica.rs	43.062694	22.416302
+9	Bajina Bašta	"Bajina Bašta, Dušana Višića br. 28"	"0698259242"	"0652064690"				oikbb2026@bajinabasta.rs	43.969183	19.570018
+10	Batočina	"Batočina, Kralja Petra I br. 32"	"0642135921"					oik@sobatocina.org.rs	44.148536	21.077234
+11	Bač	"Bač, Trg dr Zorana Đinđića br. 2"	"0216070310"					oik@bac.ls.gov.rs	"45.392250"	19.229208
+12	Bačka Palanka	"Bačka Palanka, Kralja Petra I br. 16"	"0212101180"					oik@backapalanka.org.rs	45.249411	19.405121
+13	Bačka Topola	"Bačka Topola, Maršala Tita br. 38"	"062783821"	"0638857262"	"0638569762"	"0607164550"		oikbt@btopola.org.rs	45.830435	19.631114
+14	Bački Petrovac	"Bački Petrovac, Kolarova br. 6"	"0212280378"					skupstina@backipetrovac.rs	45.359644	19.591508
+15	Bela Palanka	"Bela Palanka, Karađorđeva br. 28"	"018855023"					izborna.komisija@belapalanak.ls.gov.rs	43.219191	22.312786
+16	Bela Crkva	"Bela Crkva, Miletićeva br. 2"	"013851244"	"013853326"				izbornakomisija@opstinabc.rs	44.907348	21.415578
+17	Beograd	"Beograd, Kraljice Marije br. 1"	"0117157038"					gradskaizbornakomisija@beograd.gov.rs	44.805187	20.479323
+18	Beograd-Barajevo	"Barajevo, Svetosavska br. 2"	"0118302118"	"0118302115"	"0117872161"			oik@barajevo.bg.ls.gov.rs	44.578057	20.415654
+19	Beograd-Voždovac	"Beograd, Ustanička br. 53"	"0112445483"	"0117773060"				izbornakomisija@vozdovac.rs	44.784374	20.518811
+20	Beograd-Vračar	"Beograd, Njegoševa br. 77"	"0113081581"	"0113081558"				i.komisija@vracar.rs	44.800647	20.474323
+21	Beograd-Grocka	"Grocka, Bulevar oslobođenja br. 39"	"0668063286"	"0668063283"				izborna.komisija@grocka.org.rs	44.671127	20.718848
+22	Beograd-Zvezdara	"Beograd, Bulevar kralja Aleksandra br. 77"	"0113405750"	"0113405704"	"0113405938"			oik@zvezdara.org.rs	44.803417	20.481367
+23	Beograd-Zemun	"Zemun, Magistratski trg br. 1"	"0113778402"	"0113778453"	"0113778531"			izborna.komisija@zemun.rs	44.844775	20.413246
+24	Beograd-Lazarevac	"Lazarevac, Karađorđeva br. 42"	"0116960224"					izbornakomisija@lazarevac.rs	44.381236	20.260972
+25	Beograd-Mladenovac	"Mladenovac, Janka Katića br. 6"	"0118241631"	"0118241622"				oik@mladenovac.rs	44.440193	20.695378
+26	Beograd-Novi Beograd	"Novi Beograd, Bulevar Mihaila Pupina br. 167"	"0113106790"	"0113106791"				izbornakomisija@novibeograd.rs	44.823141	20.413269
+27	Beograd-Obrenovac	"Obrenovac, Vuka Karadžića br. 74"	"0647784372"	"0648322636"	"0648322080"	"0648637600"		ik@obrenovac.bg.ls.gov.rs	44.654702	20.200403
+28	Beograd-Palilula	"Beograd, Takovska br. 12"	"0668266619"					izborna.komisija@palilula.org.rs	44.815844	20.476067
+29	Beograd-Rakovica	"Beograd, Miška Kranjca br. 12"	"062261119"					izbornakomisija@rakovica.rs	44.744012	20.449144
+30	Beograd-Savski venac	"Beograd, Kneza Miloša br. 69"	"0112061769"	"0112061800"				izbornakomisija@savskivenac.rs	44.802102	20.456689
+31	Beograd-Sopot	"Sopot, Kosmajski trg br. 5"	"0118251155"	"0658251456"				informisanje@sopot.org.rs	44.520134	20.574694
+32	Beograd-Stari grad	"Beograd, Makedonska br. 42"	"0113225791"					izbornakomisija@starigrad.org.rs	44.815688	20.462666
+33	Beograd-Surčin	"Surčin, Vojvođanska br. 79"	"0646278636"					oiksurcin@gmail.com	44.791425	20.270144
+34	Beograd-Čukarica	"Beograd, Šumadijski trg br. 2"	"0113052239"	"0113052127"	"0113052277"			oik@cukarica.rs	44.782417	20.416479
+35	Beočin	"Beočin, Svetosavska br. 25"	"0212970260"					oik@beocin.ls.gov.rs	45.205382	19.714464
+36	Bečej	"Bečej, Trg oslobođenja br. 2"	"0648491833"	"066335750"				iko@becej.rs	45.614985	20.049054
+37	Blace	"Blace, Karađorđeva br. 4"	"0653713222"	"0655272375"	"0644673862"	"0641022694"		izborna.komisija@blace.org.rs	43.296903	21.281175
+38	Bogatić	"Bogatić, Ulica Mike Vitomirovića br. 1"	"01577860126 lok. 103 i 101"					oik@bogatic.ls.gov.rs	44.832236	19.501379
+39	Bojnik	"Bojnik, Trg slobode br. 2-4"	"0163150208"					oik@bojnik.ls.gov.rs	43.013231	"21.721880"
+40	Boljevac	"Boljevac, Kralja Aleksandra br. 24"	"0604026120"	"0612912577"	"0638558430"	"030463412"	"030463369"	izbornakomisija@opstinaboljevac.rs	43.830271	21.958184
+41	Bor	"Bor, Moše Pijade br. 3"	"030423255"					gik.bor@bor.rs	44.077264	22.098545
+42	Bosilegrad	"Bosilegrad, Georgi Dimitrov br. 84"	"0646739390"	"0646469432"				oik.bosilegrad@gmail.com	42.499656	22.473269
+43	Brus	"Brus, Kralja Petra Prvog br. 120"	"0373150101"	"0373150176"				izbornakomisija@brus.ls.gov.rs	43.384957	21.030348
+44	Bujanovac	"Bujanovac, Trg K. Petrovića br. 115"	"017854367"					oikbujanovac@gmail.com	42.459846	21.767128
+45	Valjevo	"Valjevo, Karađorđeva br. 64"	"014294756"	"014294749"	"014294779"			gik@valjevo.org.rs	44.270576	19.887305
+46	Varvarin	"Varvarin, Marina Marinovića br. 38"	"037787171 lok. 127"					oik@varvarin.ls.gov.rs	43.724114	21.368371
+47	Velika Plana	"Velika Plana, Miloša Velikog br. 30"	"026516206"	"0628080843"				oik@velikaplana.rs	44.327991	21.078122
+48	Veliko Gradište	"Veliko Gradište, Žitni trg br. 1"	"012660124"					oik@velikogradiste.rs	44.766028	21.519361
+49	Vladimirci	"Vladimirci, Svetog Save br. 34"	"015513270"					oik@vladimirci.org.rs	44.613161	19.780413
+50	Vladičin Han	"Vladičin Han, Svetosavska br. 1"	"017390510"					izborna.komisija@vladicinhan.org.rs	42.709247	"22.060720"
+51	Vlasotince	"Vlasotince, Trg oslobođenja br. 12"	"016875122"	"0163150384"				oik@vlasotince.rs	42.965275	22.127841
+52	Vranje	"Vranje, Kralja Milana br. 1"	"017412196"					izbornavr@vranje.org.rs	42.552558	21.937438
+53	Vranjska Banja	"Vranjska Banja, Kralja Petra Prvog Oslobodioca br. 121/1"	"0177455015"					komisija.go.vrb@gmail.com	"42.568010"	21.983154
+54	Vrbas	"Vrbas, Maršala Tita br. 89"	"063590050"	"0648053092"	"0607316804"	"0648579240"		izbornakomisija@vrbas.rs	45.571197	19.641311
+55	Vrnjačka Banja	"Vrnjačka Banja, Kruševačka br. 17a"	"036601218"	"036601231"				izborna.komisija@vrnjackabanja.gov.rs	43.618998	20.887886
+56	Vršac	"Vršac, Trg pobede br. 1"	"0608070213"	"0608070212"	"0608070136"	"0608070154"		izbornakomisija@vrsac.org.rs	45.120347	21.298999
+57	Gadžin Han	"Gadžin Han, Miloša Obilića br. 42"	"0642599575"	"063682705"				izborna.komisija@gadzinhan.rs	43.228814	22.032335
+58	Golubac	"Golubac, Cara Lazara br. 15"	"012678260"	"012678178"				oikgolubac@golubac.org.rs	"44.652960"	21.632571
+59	Gornji Milanovac	"Gornji Milanovac, Takovska br. 2"	"0325150073"					izborna.komisija@gornjimilanovac.ls.gov.rs	44.026742	20.455915
+60	Despotovac	"Despotovac, Milosava Zdravkovića Resavca br. 4"	"0648774798"					izborna.komisija@despotovac.rs	44.094206	21.439163
+61	Dimitrovgrad	"Dimitrovgrad, Balkanska br. 2"	"010361108"	"010361582"				oik@dimitrovgrad.rs	43.012508	22.767793
+62	Doljevac	"Doljevac, Nikole Tesle br. 121"	"0184810054 lok. 13 i 39"					izbornakomisija@opstinadoljevac.rs	43.202162	21.832301
+63	Žabalj	"Žabalj, Nikole Tesle br. 45"	"0212102266"					oik@zabalj.ls.gov.rs	"45.370500"	"20.064360"
+64	Žabari	"Žabari, Kneza Miloša br. 103"	"012250130"	"0637256988"	"0648133204"	"0648133226"		ik@zabari.org.rs	44.355736	21.214854
+65	Žagubica	"Žagubica, Trg oslobođenja br. 1"	"0127643153 lok. 103 i 110"					izbornakomisija@opstinazagubica.rs	44.197456	21.782941
+66	Žitište	"Žitište, Cara Dušana br. 15"	"0233821306"	"0233821050"				izborna.komisija@zitiste.rs	45.499134	20.534622
+67	Žitorađa	"Žitorađa, Toplički heroji br. 53"	"0278362550"	"063371109"	"0641221289"			izbori@zitoradja.org	43.188965	21.711144
+68	Zaječar	"Zaječar, Trg oslobođenja br. 1"	"019444600"					gik@zajecar.info	43.902737	22.279309
+69	Zrenjanin	"Zrenjanin, Trg slobode br. 10"	"0233150105"	"0233150120"				gradskaizbornakomisija@grad.zrenjanin.rs	45.380259	20.390075
+70	Ivanjica	"Ivanjica, Venijamina Marinkovića br. 1"	"0658911592"	"0648273193"	"0648899454"	"0658911555"		oik.ivanjica@ivanjica.ls.gov.rs	43.566359	20.249858
+71	Inđija	"Inđija, Cara Dušana br. 1"	"022515002"	"022561322 lok. 128 i 150"				izborna.komisija@indjija.rs	45.045304	20.077627
+72	Irig	"Irig, Vojvode Putnika br. 1"	"022400600"	"022400627"	"063548022"			oik@irig.rs	45.099213	19.861141
+73	Jagodina	"Jagodina, Kralja Petra I br. 6"	"0358150538"					gik@jagodina.org.rs	43.976624	21.264319
+74	Kanjiža	"Kanjiža, Trg glavni br. 1"	"0244875166"					izbornakomisija@kanjiza.rs	46.065486	20.059649
+75	Kikinda	"Kikinda, Trg srpskih dobrovoljaca br. 12"	"0230410111"	"0230410115"	"0230410234"	"0230410112"	"0230410165"	gikkikinda@kikinda.org.rs	45.830129	20.464377
+76	Kladovo	"Kladovo, Kralja Aleksandra br. 35"	"019801450"					izborna.komisija@kladovo.org.rs	44.606589	22.607681
+77	Knić	"Knić, Vojvode Stevana Knićanina br. 116"	"034510113"	"034510112"				oik@knic.rs	43.930522	20.733291
+78	Knjaževac	"Knjaževac, Miloša Obilića br. 1"	"019733119"	"019731623"				izbornakomisija@knjazevac.rs	43.564492	22.256214
+79	Kovačica	"Kovačica, Maršala Tita br. 50"	"013661122"					izbornakomisija@kovacica.ls.gov.rs	45.111605	20.615019
+80	Kovin	"Kovin, JNA br. 5"	"0641945050"	"0600369616"	"0648641621"	"0648641618"		izborna.komisija@kovin.org.rs	44.745968	20.972465
+81	Kosjerić	"Kosjerić, Olge Grbić br. 10"	"031781460"					iok.kosjeric@gmail.com	43.997143	19.907762
+82	Koceljeva	"Koceljeva, Nemanjina br. 74"	"015556322"	"015556189"				oukoceljeva@gmail.com	44.467607	19.819719
+83	Kragujevac	"Kragujevac, Trg Slobode br. 3"	"034331961"					gikkragujevac@kg.org.rs	44.012672	20.919607
+84	Kraljevo	"Kraljevo, Trg Jovana Sarića br. 1"	"036306113"	"0605682426"	"0648291533"	"0648912198"		gik@kraljevo.rs	43.724625	"20.688170"
+85	Krupanj	"Krupanj, Maršala Tita br. 2"	"015581101"					oik@krupanj.org.rs	44.366838	19.360096
+86	Kruševac	"Kruševac, Gazimestanska br. 1"	"037414746"					gik@krusevac.rs	43.584906	21.323116
+87	Kula	"Kula, Lenjinova br. 11"	"025751103"	"0642167104"	"0638515291"			izbornakomisija@kula.rs	45.610218	19.529467
+88	Kuršumlija	"Kuršumlija, Proleterskih brigada bb"	"027381383"					oik@kursumlija.ls.gov.rs	43.138756	21.272649
+89	Kučevo	"Kučevo, Svetog Save br. 76"	"012852141"					izbornakomisijakucevo@gmail.com	44.478793	21.668115
+90	Lajkovac	"Lajkovac, Omladinski trg br. 2"	"0143433109 lokal 113"					izborna.komisija@lajkovac.ls.gov.rs	44.369677	20.165367
+91	Lapovo	"Lapovo, Njegoševa br. 18"	"0668095231"	"0631090434"				izborna.komisija@lapovo.ls.gov.rs	44.183864	21.108435
+92	Lebane	"Lebane, Cara Dušana br. 116"	"016843710"					oik@lebane.ls.org.rs	42.924739	21.741424
+93	Leskovac	"Leskovac, Pana Đukića br. 9-11"	"016200858"					gik@gradleskovac.org	42.991179	21.948202
+94	Loznica	"Loznica, Karađorđeva br. 2"	"015879264"	"015879200"				gik@loznica.rs	44.529105	"19.222100"
+95	Lučani	"Lučani, Jugoslovenske armije br. 5"	"0325150613"	"0325150623"				oik@lucani.rs	43.861968	20.135154
+96	Ljig	"Ljig, Karađorđeva br. 7"	"0143445044"					oupravaljig@gmail.com	44.226112	20.239395
+97	Ljubovija	"Ljubovija, Vojvode Mišića br. 45"	"015561411"					izbornakomisija@ljubovija.rs	44.190591	19.359318
+98	Majdanpek	"Majdanpek, Trg oslobođenja 1"	"030581240 lokal 114"					izborna.komisija@majdanpek.rs	44.422052	21.936174
+99	Mali Zvornik	"Mali Zvornik, Kralja Petra Prvog br. 38"	"0157195188 lok. 121 i 131"	"015471300"				oik@malizvornik.ls.gov.rs	44.377811	19.107011
+100	Mali Iđoš	"Mali Iđoš, Glavna br. 32"	"0244730010"	"024473003"	"0648489538"	"0648489516"	"0621951027"	izbornakomisija@maliidjos.rs	45.704608	19.670909
+101	Malo Crniće	"Malo Crniće, Bajlonijeva br. 119"	"0127160838"	"0127160836"				izbornakomisija@opstinamalocrnice.rs	44.558836	21.288228
+102	Medveđa	"Medveđa, Kralja Milana br. 48"	"0163891094"					izborna.komisija@medvedja.ls.gov.rs	"42.841250"	21.585389
+103	Merošina	"Merošina, Cara Lazara br. 17"	"0643590127"	"062488463"	"0638982429"	"0628830700"		izborna.komisija@merosina.org.rs	43.282839	21.719531
+104	Mionica	"Mionica, Vojvode Mišića br. 30"	"062217493"	"0143422270"	"0143422271"			izborna.komisija@mionica.rs	44.254201	20.090019
+105	Negotin	"Negotin, Trg Stevana Mokranjca br. 1"	"019544000"					informatikang@yahoo.com	44.226751	22.530762
+106	Niš	"Niš, Nikole Pašića br. 24"	"018505511"					gik.nis@gu.ni.rs	43.318707	21.892407
+107	Niš-Crveni Krst	"Niš, Bul. 12. februar br. 89"	"018583700"	"018583600"				oik@gocrvenikrst.rs	43.333653	21.880501
+108	Niš-Medijana	"Niš, Pariske komune bb"	"018532992"					oik.medijana@yahoo.com	43.321805	21.918374
+109	Niš-Niška Banja	"Niš, Školske česme 2g"	"0654038300"	"0693068636"	"0628014286"			oikniskabanja@gmail.com	43.295392	22.007905
+110	Niš-Palilula	"Niš, Branka Radičevića br. 1"	"018290600"	"0695313999"				izbornakomisija@palilula.eu	43.312765	21.886704
+111	Niš-Pantelej	"Niš, Gutenbergova br. 4a"	"018201280"	"018201321"	"0658054297"			oikpantelej@gmail.com	43.327966	21.928022
+112	Nova Varoš	"Nova Varoš, Karađorđeva br. 32"	"03362140"	"03362142"				izborna.komisija@novavaros.rs	43.460157	19.808459
+113	Nova Crnja	"Nova Crnja, JNA br. 110"	"023815030"					izbornakomisija@novacrnja.rs	45.667322	20.604477
+114	Novi Bečej	"Novi Bečej, Žarka Zrenjanina br. 8"	"023771135"	"023772320"	"023772321"	"023777322"	"023772323"	oik@novibecej.rs	45.598694	20.128919
+115	Novi Kneževac	"Novi Kneževac, Kralja Petra I Karađorđevića br. 1"	"062792266"	"023082055"	"0628736859"			oik@noviknezevac.rs	46.041847	20.104179
+116	Novi Pazar	"Novi Pazar, Stefana Nemanje br. 2"	"0648907338"	"0648627402"				izborna.komisija@novipazar.org.rs	43.140691	20.518057
+117	Novi Sad	"Novi Sad, Žarka Zrenjanina br. 2"	"021526970"	"0648448633"				gik@novisad.rs	45.252377	19.847322
+118	Opovo	"Opovo, Borisa Kidriča br. 10"	"013681030"					izbornakomisija@opovo.org.rs	45.039812	20.446957
+119	Osečina	"Osečina, Karađorđeva br. 78"	"014451311"	"014451158"				oik@osecina.rs	44.372499	19.601575
+120	Odžaci	"Odžaci, Knez Mihajlova br. 24"	"025466069"					oikodzaci@odzaci.rs	45.505122	19.257672
+121	Pančevo	"Pančevo, Trg Kralja Petra I br. 2-4"	"013308848"					izborna.komisija@pancevo.rs	44.870101	20.640247
+122	Paraćin	"Paraćin, Tome Živanovića br. 10"	"035563601"	"0659439842"	"0658565657"	"0641792667"		izborna_komisija@paracin.rs	43.891361	21.382296
+123	Petrovac na Mlavi	"Petrovac na Mlavi, Srpskih vladara br. 165"	"0648679828"	"0648679842"				oik@petrovacnamlavi.rs	44.377223	21.418608
+124	Pećinci	"Pećinci, Slobodana Bajića br. 5"	"0648983690"					izborna.komisija@pecinci.org	44.904304	"19.967250"
+125	Pirot	"Pirot, Srpskih vladara br. 82"	"010305567"	"010305527"	"010305525"			gik@pirot.rs	43.154967	22.585895
+126	Plandište	"Plandište, Vojvode Putnika br. 38"	"013861033"	"0668670082"	"0668670080"	"0668670035"	"0668670081"	oik@plandiste-opstina.rs	45.228094	21.116635
+127	Požarevac	"Požarevac, Drinska br. 2"	"012539670"	"012539740"				gik@pozarevac.rs	44.620781	21.185424
+128	Požarevac-Kostolac	"Kostolac, Bože Dimitrijevića br. 13"	"012241830"					izborna.komisija@kostolac.rs	44.718252	21.173717
+129	Požega	"Požega, Trg slobode br. 9"	"031811732"	"069720206"	"0652713718"	"069720475"		izborna.komisija@pozega.ls.gov.rs	43.845988	"20.035650"
+130	Preševo	"Preševo, Maršala Tita br. 36"	"0621767058"	"0668095600"				kkz-oik@presevo.rs	42.307896	21.649648
+131	Priboj	"Priboj, Trg Fapa"	"0332452341"					izborna.komisija@priboj.rs	"43.582850"	19.525817
+132	Prijepolje	"Prijepolje, Trg bratstva jedinstva br. 1"	"033714148"	"033714956"				izborna.komisija@prijepolje.ls.gov.rs	43.388975	19.649129
+133	Prokuplje	"Prokuplje, Nikodija Stojanovića Tatka br. 2"	"027323936"					gik@prokuplje.org.rs	43.235041	21.591402
+134	Ražanj	"Ražanj, Trg Svetog Save br. 33"	"0373841174 lok. 26"	"0648658944"	"0648867784"	"0648867767"	"0648867715"	oik@razanj.org	43.672068	21.548928
+135	Rača	"Rača, Karođerđeva br. 48"	"0616206116"	"0607533140"				oik@raca.rs	44.226678	20.980395
+136	Raška	"Raška, Predraga Vilimonovića br. 1"	"036737315"	"036736244"				izborna.komisija@raska.gov.rs	43.286367	20.615135
+137	Rekovac	"Rekovac, Svetozara Markovića br. 2"	"0694283060"					izborna.komisija@rekovac.rs	43.860258	21.087295
+138	Ruma	"Ruma, Glavna br. 155"	"022478314"					izbornakomisijaopstineruma@gmail.com	45.008051	19.824351
+139	Svilajnac	"Svilajnac, Svetog Save br. 102"	"035312010 lok. 151"					izborna.komisija@svilajnac.rs	44.230446	21.197118
+140	Svrljig	"Svrljig, Radetova br. 31"	"018821018"	"0692823371"				oik@svrljig.rs	"43.416310"	22.125067
+141	Senta	"Senta, Glavni trg br. 1"	"0648725319"					oiksenta@zenta-senta.co.rs	45.931868	20.090383
+142	Sečanj	"Sečanj, Vožda Karađorđa br. 57"	"0233150711"					izborna.komisija@secanj.ls.gov.rs	45.365817	20.772275
+143	Sjenica	"Sjenica, Zmaja od Bosne br. 1"	"0648096766"					izborna.komisija@sjenica.rs	43.261235	19.995618
+144	Smederevo	"Smederevo, Omladinska br. 1"	"026672724 lok. 1837"					izborna.komisijasd@smederevo.ls.gov.rs	44.666895	20.927378
+145	Smederevska Palanka	"Smederevska Palanka, Vuka Karadžića br. 25"	"026310437"					nacelnikou@smederevskapalanka.rs	"44.365490"	20.963598
+146	Sokobanja	"Sokobanja, Svetog Save br. 23"	"0648560779"					"skupstina@opstinasokobanja.com, nacelnik@opstinasokobanja.com"	43.644356	21.876273
+147	Sombor	"Sombor, Trg Cara Uroša br. 1"	"025468105"					iksombor@sombor.rs	45.770499	"19.117300"
+148	Srbobran	"Srbobran, Trg Slobode br. 2"	"0648894449"	"0606696045"	"0628154847"			izborna.komisija@srbobran48.rs	45.545154	19.791099
+149	Sremska Mitrovica	"Sremska Mitrovica, Svetog Dimitrija br. 13"	"022610156"					izbornakomisijasm@sremskamitrovica.org.rs	44.971109	19.613341
+150	Sremski Karlovci	"Sremski Karlovci, Trg Branka Radičevića br. 1"	"0642466262"	"0648249017"				oik@sremskikarlovci.rs	45.203179	19.933892
+151	Stara Pazova	"Stara Pazova, Svetosavska br. 11"	"0641471484"	"0693943123"				oikstarapazova@gmail.com	44.984713	20.159473
+152	Subotica	"Subotica, Trg slobode br. 1"	"024626959"					izbornakomisija@subotica.ls.gov.rs	46.100054	19.665188
+153	Surdulica	"Surdulica, Kralja Petra I br. 38"	"017493293"					izborna.komisija@surdulica.ls.gov.rs	42.691416	22.172418
+154	Temerin	"Temerin, Novosadska br. 326"	"021843888 lok. 126"					oik.temerin@temerin.rs	45.407826	19.888745
+155	Titel	"Titel, Glavna br. 1"	"0212960186"	"0643006033"				oik.titel@opstinatitel.rs	45.205108	20.296882
+156	Topola	"Topola, Bulevar Kralja Aleksandra I br. 9"	"0648614131"	"0603464366"	"0648539155"	"0643882358"		oik@topola.com	44.254475	20.679721
+157	Trgovište	"Trgovište, Kralja Petra Prvog Karađorđevića br. 4"	"017452203"	"017452207"				izbornakomisija@trgoviste.rs	"42.364000"	22.083132
+158	Trstenik	"Trstenik, Kneginje Milice br. 5"	"069614638"	"0648613492"				oik@trstenik.rs	43.619015	21.003801
+159	Tutin	"Tutin, Bogoljuba Čukića 7"	"020811830"	"0621860385"				izbornakomisija@tutin.rs	42.990503	20.339194
+160	Ćićevac	"Ćićevac, Karađorđeva br. 106"	"037811421"					oik@cicevac.ls.gov.rs	"43.720530"	21.440728
+161	Ćuprija	"Ćuprija, Ul. 13. oktobra br. 7"	"0358470248"					izborna.komisija@cuprija.rs	43.936044	21.371756
+162	Ub	"Ub, Vojvode Mišića br. 20B"	"014411622 lok. 104"	"014411113"	"014411202"	"014411260"		izbornakomisija@opstinaub.org.rs	44.456379	20.069433
+163	Užice	"Užice, Dimitrija Tucovića br. 52"	"031590150"					izborna.komisija@uzice.rs	43.856225	19.842598
+164	Užice-Sevojno	"Sevojno, Milivoja Marića br. 40"	"0646453025"	"0313150101"				izbornakomisija.sevojno@uzice.rs	43.845683	19.897391
+165	Crna Trava	"Crna Trava, Trg Milentija Popovića br. 57"	"016811115"	"016811118"	"0658811303"	"062303475"	"0642540365"	Izborna.komisija@opstinacrnatrava.org.rs	42.809457	22.299115
+166	Čajetina	"Čajetina, Aleksandra Karađorđevića br. 34"	"0313831003"	"0313831250"	"0313831151"			sekretar.cajetina@gmail.com	43.749267	19.714698
+167	Čačak	"Čačak, Župana Stracimira br. 2"	"032309055"					izbornakomisija@cacak.org.rs	43.892434	20.350133
+168	Čoka	"Čoka, Potiska br. 20"	"0230471000"					oik@coka.rs	45.941434	"20.140130"
+169	Šabac	"Šabac, Gospodar Jevremova br. 6"	"015347117"					gik@sabac.org	44.757564	19.692668
+170	Šid	"Šid, Karađorđeva br. 2"	"022712544"	"0668097592"				izborna.komisija@sid.rs	45.126623	19.225001
