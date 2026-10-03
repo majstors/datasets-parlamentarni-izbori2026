@@ -51,6 +51,11 @@ Spisak biračkih mesta po opštinama i gradovima, sa adresama i geografskim koor
 
 Podaci su preuzeti sa sajta [izbori26.com](https://izbori26.com/) (sekcija „Biračka mesta“), iz pojedinačnih CSV fajlova po opštinama koje sajt koristi za prikaz na mapi. Kudos [@dacha_0](https://x.com/dacha_0).
 
+> [!NOTE]
+> **Nedostaju dve opštine:**
+> - **Stari grad** — na sajtu RIK ne postoji odluka o biračkim mestima za ovu opštinu.
+> - **Bela Crkva** — odluka postoji, ali se u njoj samo navodi da se „određuju mesta“, bez spiska biračkih mesta.
+
 **Datum preuzimanja:** 29. septembar 2026.
 
 ### Fajl
@@ -60,8 +65,8 @@ Podaci su preuzeti sa sajta [izbori26.com](https://izbori26.com/) (sekcija „Bi
 | Naziv | `biracka_mesta_par_2026.tsv` |
 | Format | TSV (vrednosti odvojene tabom), UTF-8 sa BOM oznakom (ispravno se otvara u Excelu) |
 | Pismo | ćirilica |
-| Broj redova | 6.850 biračkih mesta (plus zaglavlje) |
-| Obuhvat | 149 opština i gradskih opština |
+| Broj redova | 8.275 biračkih mesta (plus zaglavlje) |
+| Obuhvat | 175 opština i gradskih opština (nedostaju Stari grad i Bela Crkva, vidi [Izvor](#izvor)) |
 | Sortiranje | po nazivu opštine, zatim po rednom broju biračkog mesta |
 
 ### Kolone
@@ -82,19 +87,16 @@ Podaci su preuzeti sa sajta [izbori26.com](https://izbori26.com/) (sekcija „Bi
 
 | Vrednost | Značenje | Broj |
 |---|---|---:|
-| `objekat` | Tačna lokacija zgrade | 3.806 |
-| `naselje` | Približno, centar naselja | 1.988 |
-| `ulica` | Približno, lokacija ulice | 632 |
-| `drugo:*` | Poklopljeno sa drugim tipom objekta (reka, pruga, aerodrom i sl.), treba proveriti | 30 |
-| `nije_nadjeno` | Lokacija nije pronađena, `lat` i `lng` su prazni | 394 |
+| `objekat` | Tačna lokacija zgrade | 4.636 |
+| `naselje` | Približno, centar naselja | 2.393 |
+| `ulica` | Približno, lokacija ulice | 749 |
+| `drugo:*` | Poklopljeno sa drugim tipom objekta (reka, pruga, aerodrom i sl.), treba proveriti | 45 |
+| `nije_nadjeno` | Lokacija nije pronađena, `lat` i `lng` su prazni | 452 |
 
 ### Napomene
 
 - Koordinate su dobijene automatskim geokodiranjem adresa i ne potiču od izborne komisije. Zato lokacije koje nisu tipa `objekat` treba uzeti kao približne.
 - Za 28 biračkih mesta izvor nije posebno naveo naselje i ulicu. Kod njih su `naselje` i `ulica` izvučeni iz kolone `adresa`, deljenjem na prvom zarezu.
-- Tabovi i prelomi redova unutar vrednosti zamenjeni su razmakom.
-- U izvoru postoji još jedna kolona sa opisom lokacije koji je vratio geokoder. Ona nije uključena u ovaj fajl.
-- Nazivi i adrese su preneti onako kako su dati u izvoru, bez ispravljanja grešaka (na primer, „БериЋа“).
 
 ---
 
