@@ -52,9 +52,8 @@ Spisak biračkih mesta po opštinama i gradovima, sa adresama i geografskim koor
 Podaci su preuzeti sa sajta [izbori26.com](https://izbori26.com/) (sekcija „Biračka mesta“), iz pojedinačnih CSV fajlova po opštinama koje sajt koristi za prikaz na mapi. Kudos [@dacha_0](https://x.com/dacha_0).
 
 > [!NOTE]
-> **Nedostaju dve opštine:**
-> - **Stari grad** — na sajtu RIK ne postoji odluka o biračkim mestima za ovu opštinu.
-> - **Bela Crkva** — odluka postoji, ali se u njoj samo navodi da se „određuju mesta“, bez spiska biračkih mesta.
+> **Nedostaje jedna opština:**
+> - **Bela Crkva** — odluka postoji, ali se u njoj samo navodi da se „određuju mesta”, bez spiska biračkih mesta.
 
 **Datum preuzimanja:** 29. septembar 2026.
 
@@ -66,14 +65,14 @@ Podaci su preuzeti sa sajta [izbori26.com](https://izbori26.com/) (sekcija „Bi
 | Format | TSV (vrednosti odvojene tabom), UTF-8 sa BOM oznakom (ispravno se otvara u Excelu) |
 | Pismo | ćirilica |
 | Broj redova | 8.275 biračkih mesta (plus zaglavlje) |
-| Obuhvat | 175 opština i gradskih opština (nedostaju Stari grad i Bela Crkva, vidi [Izvor](#izvor)) |
+| Obuhvat | 180 opština i gradskih opština (nedostaje Bela Crkva, vidi [Izvor](#izvor)) |
 | Sortiranje | po nazivu opštine, zatim po rednom broju biračkog mesta |
 
 ### Kolone
 
 | Kolona | Opis |
 |---|---|
-| `opstina` | Naziv opštine, grada ili gradske opštine |
+| `opstina` | Naziv opštine, grada ili gradske opštine; gradske opštine Beograda i Niša su u obliku `Grad - Gradska opština` (npr. `Београд - Земун`, `Ниш - Медијана`) |
 | `redni_broj` | Redni broj biračkog mesta u okviru opštine |
 | `biracko_mesto` | Naziv objekta u kojem je biračko mesto (škola, mesna zajednica i sl.) |
 | `adresa` | Puna adresa u obliku „Naselje, Ulica i broj“ |
