@@ -51,10 +51,6 @@ Spisak biračkih mesta po opštinama i gradovima, sa adresama i geografskim koor
 
 Podaci su preuzeti sa sajta [izbori26.com](https://izbori26.com/) (sekcija „Biračka mesta“), iz pojedinačnih CSV fajlova po opštinama koje sajt koristi za prikaz na mapi. Kudos [@dacha_0](https://x.com/dacha_0).
 
-> [!NOTE]
-> **Nedostaje jedna opština:**
-> - **Bela Crkva** — odluka postoji, ali se u njoj samo navodi da se „određuju mesta”, bez spiska biračkih mesta.
-
 **Datum preuzimanja:** 29. septembar 2026.
 
 ### Fajl
@@ -64,8 +60,8 @@ Podaci su preuzeti sa sajta [izbori26.com](https://izbori26.com/) (sekcija „Bi
 | Naziv | `biracka_mesta_par_2026.tsv` |
 | Format | TSV (vrednosti odvojene tabom), UTF-8 sa BOM oznakom (ispravno se otvara u Excelu) |
 | Pismo | ćirilica |
-| Broj redova | 8.275 biračkih mesta (plus zaglavlje) |
-| Obuhvat | 180 opština i gradskih opština (nedostaje Bela Crkva, vidi [Izvor](#izvor)) |
+| Broj redova | 8.294 biračkih mesta (plus zaglavlje) |
+| Obuhvat | 181 opština i gradskih opština |
 | Sortiranje | po nazivu opštine, zatim po rednom broju biračkog mesta |
 
 ### Kolone
@@ -86,8 +82,8 @@ Podaci su preuzeti sa sajta [izbori26.com](https://izbori26.com/) (sekcija „Bi
 
 | Vrednost | Značenje | Broj |
 |---|---|---:|
-| `objekat` | Tačna lokacija zgrade | 4.636 |
-| `naselje` | Približno, centar naselja | 2.393 |
+| `objekat` | Tačna lokacija zgrade | 4.643 |
+| `naselje` | Približno, centar naselja | 2.405 |
 | `ulica` | Približno, lokacija ulice | 749 |
 | `drugo:*` | Poklopljeno sa drugim tipom objekta (reka, pruga, aerodrom i sl.), treba proveriti | 45 |
 | `nije_nadjeno` | Lokacija nije pronađena, `lat` i `lng` su prazni | 452 |
